@@ -21,7 +21,6 @@ public class Demo {
 		intLinkedList.appendElement(4);
 		intLinkedList.appendElement(3);
 		intLinkedList.appendElement(2);
-		intLinkedList.appendElement(2);
 
 		System.out.println("*** LinkedList is inputed ***");
 		intLinkedList.printLinkedList();
